@@ -14,3 +14,4 @@ rstobj>=0.0.5       # generate list table from data
 # Other
 
 pygments            # live RestructuredText preview
+pandas              # read tsv

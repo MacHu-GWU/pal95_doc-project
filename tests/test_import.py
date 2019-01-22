@@ -7,7 +7,10 @@ from pytest import raises, approx
 
 def test():
     import pal95_doc
-    pass
+
+    from pal95_doc import docs
+
+    print(docs.lt_spell_lxy.render())
 
 
 if __name__ == "__main__":
