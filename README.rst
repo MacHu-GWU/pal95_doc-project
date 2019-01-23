@@ -1,5 +1,5 @@
 
-.. image:: https://readthedocs.org/projects/pal95_doc/badge/?version=latest
+.. image:: https://readthedocs.org/projects/xianjian95/badge/?version=latest
     :target: https://xianjian95.readthedocs.io/?badge=latest
     :alt: Documentation Status
 
