@@ -1,6 +1,6 @@
 
 .. image:: https://readthedocs.org/projects/pal95_doc/badge/?version=latest
-    :target: https://pal95_doc.readthedocs.io/?badge=latest
+    :target: https://xianjian95.readthedocs.io/?badge=latest
     :alt: Documentation Status
 
 .. image:: https://img.shields.io/badge/给我点赞_on_GitHub!--None.svg?style=social
