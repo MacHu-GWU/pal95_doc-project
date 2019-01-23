@@ -10,7 +10,7 @@
 
 
 .. image:: https://img.shields.io/badge/Link-攻略及资料-blue.svg
-      :target: https://pal95_doc.readthedocs.io/index.html
+      :target: https://xianjian95.readthedocs.io/index.html
 
 .. image:: https://img.shields.io/badge/Link-GitHub-blue.svg
       :target: https://github.com/MacHu-GWU/pal95_doc-project
